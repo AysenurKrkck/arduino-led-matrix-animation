@@ -14,3 +14,6 @@ This project aims to create an animated facial expression using Arduino and an M
 -> Ekran / Display: 8x8 LED Matrix (MAX7219)
 
 -> Bağlantı / Interface: SPI (Serial Peripheral Interface)
+
+![matrix](https://github.com/user-attachments/assets/deb6cd4b-0118-40ef-b1e5-6d26d6f5e08f)
+
